@@ -3,6 +3,7 @@ int in1=7;
 int in2=8;
 int in3=9;
 int in4=10;
+int dummy_var;
 String str;
 char c;
 SoftwareSerial HC(3,4);
