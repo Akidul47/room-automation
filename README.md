@@ -1,2 +1,2 @@
 # room-automation
-to automate room
+This is a arduino code for simple room automation with arduino 
